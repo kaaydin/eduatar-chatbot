@@ -38,3 +38,7 @@ Key insights from the project:
 ### Conclusion
 
 This project establishes a foundational proof of concept in the application of LLMs for educational chatbots. Further research and development are required to optimize the performance and utility of such systems.
+
+---
+
+For more details, please see the [report](https://github.com/kaaydin/eduatar-chatbot/blob/main/report/nlp-report-final.pdf)

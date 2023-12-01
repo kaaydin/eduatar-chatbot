@@ -1,1 +1,74 @@
-# eduatar-chatbot
+# Eduatar Chatbot: NLP Project Report
+
+## Authors: Aydin Kaan & Schnydrig Sven
+
+A report submitted in partial fulfillment for the Natural Language Processing with Deep Learning Course in the Master of Computer Science (MCS) at the Institute of Computer Science (ICS-HSG), June 2023.
+
+---
+
+### Introduction
+
+The Eduatar Chatbot project leverages Natural Language Processing (NLP) and Deep Learning to assist Swiss apprentices, teachers, and parents in navigating the complexities of the apprenticeship system. This project is a collaborative effort with the vocational training office in Bern and aims to enhance productivity and provide timely responses to common inquiries related to apprenticeships.
+
+### Project Overview
+
+**Objective**: To develop an intelligent chatbot, Eduatar, using large language models (LLMs) for automating responses to common queries about Swiss apprenticeships.
+
+**Key Features**:
+- **Automated Responses**: Quick and reliable information on topics like working hours, compensations, and legal questions.
+- **User-Friendly Interface**: Designed for apprentices, teachers, and parents to easily navigate the Swiss vocational education system.
+- **Advanced NLP Techniques**: Utilizing state-of-the-art LLMs like GPT-3.5/4 and VICUNA for accurate and relevant answers.
+
+### Methods
+
+The project methodology encompasses:
+1. **Dataset Generation**: Building a dataset tailored for fine-tuning BERT-style models.
+2. **Model Selection & Fine-Tuning**: Evaluating and fine-tuning models like BERT, GPT-3.5, and VICUNA.
+3. **Pipeline Setup**: Implementing a retriever-reader model using the LangChain framework.
+4. **Model Evaluation**: Employing manual and automated methods to assess model performance.
+
+### Results
+
+- **GPT-3.5** demonstrated the highest accuracy in both manual and automated evaluations.
+- **VICUNA models** showed competitive performance, suggesting potential for further improvement.
+- **GELECTRA models** require additional refinement for better performance.
+
+### Discussion
+
+Key insights from the project:
+- **Model Efficacy**: Advanced LLMs like GPT-3.5 outperform older models in response accuracy.
+- **Fine-Tuning**: Critical for enhancing model performance, with a focus on data quality.
+- **Evaluation Methods**: Importance of diverse evaluation approaches for comprehensive assessment.
+- **Scalability**: Emphasizing the need for expansive and diverse document databases.
+
+### Conclusion
+
+This project establishes a foundational proof of concept in the application of LLMs for educational chatbots. Further research and development are required to optimize the performance and utility of such systems.
+
+### Bibliography
+
+- Refer to the detailed report for a comprehensive list of references and resources used in this project.
+
+---
+
+### Declaration of Authorship
+
+This work is a result of joint collaboration and adheres to academic integrity and authorship standards.
+
+---
+
+**Signatures**:
+
+- Aydin Kaan
+- Schnydrig Sven
+
+---
+
+### Contact Information
+
+For inquiries or further information about this project, please contact Aydin Kaan or Schnydrig Sven at [Institute Email].
+
+---
+
+**© Eduatar Chatbot Project, Institute of Computer Science (ICS-HSG), June 2023**
+``

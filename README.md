@@ -38,8 +38,3 @@ Key insights from the project:
 ### Conclusion
 
 This project establishes a foundational proof of concept in the application of LLMs for educational chatbots. Further research and development are required to optimize the performance and utility of such systems.
-
----
-
-**© Eduatar Chatbot Project, Institute of Computer Science (ICS-HSG), June 2023**
-``

@@ -1,10 +1,4 @@
-# Eduatar Chatbot: NLP Project Report
-
-## Authors: Aydin Kaan & Schnydrig Sven
-
-A report submitted in partial fulfillment for the Natural Language Processing with Deep Learning Course in the Master of Computer Science (MCS) at the Institute of Computer Science (ICS-HSG), June 2023.
-
----
+# Eduatar Chatbot
 
 ### Introduction
 
@@ -44,29 +38,6 @@ Key insights from the project:
 ### Conclusion
 
 This project establishes a foundational proof of concept in the application of LLMs for educational chatbots. Further research and development are required to optimize the performance and utility of such systems.
-
-### Bibliography
-
-- Refer to the detailed report for a comprehensive list of references and resources used in this project.
-
----
-
-### Declaration of Authorship
-
-This work is a result of joint collaboration and adheres to academic integrity and authorship standards.
-
----
-
-**Signatures**:
-
-- Aydin Kaan
-- Schnydrig Sven
-
----
-
-### Contact Information
-
-For inquiries or further information about this project, please contact Aydin Kaan or Schnydrig Sven at [Institute Email].
 
 ---
 

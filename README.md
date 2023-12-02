@@ -10,7 +10,6 @@ The Eduatar Chatbot project leverages Natural Language Processing (NLP) and Deep
 
 **Key Features**:
 - **Automated Responses**: Quick and reliable information on topics like working hours, compensations, and legal questions.
-- **User-Friendly Interface**: Designed for apprentices, teachers, and parents to easily navigate the Swiss vocational education system.
 - **Advanced NLP Techniques**: Utilizing state-of-the-art LLMs like GPT-3.5/4 and VICUNA for accurate and relevant answers.
 
 ## Methods
